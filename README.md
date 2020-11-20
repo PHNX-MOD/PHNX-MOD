@@ -24,7 +24,7 @@ Outside of [GitHub](https://github.com/PHNX-MOD),
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ###my website - My Portfolio
+- 🔭 I’m currently working on **my website - My Portfolio
 - 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - 📫 How to reach me: https://www.facebook.com/Hady.modross/
 - ⚡ Fun fact: Chicken came first than Egg
