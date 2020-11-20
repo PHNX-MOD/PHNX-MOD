@@ -29,4 +29,6 @@ Outside of [GitHub](https://github.com/PHNX-MOD),
 
 ⚡ **Projects**
 ***Django projects***
-<p><a href="https://github.com/PHNX-MOD/mysite">My Site</a></p>
+- <p><a href="https://github.com/PHNX-MOD/mysite">My Site</a></p>
+- <p><a href="https://github.com/aeciovc/sda_django_myquote">Group Project</a></p>
+- <p><a href="https://github.com/PHNX-MOD/django-projects/tree/master/blog_django">Blog</a></p>
