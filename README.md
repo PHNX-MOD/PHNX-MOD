@@ -13,7 +13,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PHNX-MOD&show_icons=true&theme=radical)
 
 
-[![Linkedin: ModithHadya](https://img.shields.io/badge/-ModithHadya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ModithHadya/)](www.linkedin.com/in/modith-hadya)
+[![Linkedin: ModithHadya](https://img.shields.io/badge/-ModithHadya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ModithHadya/)](https://www.linkedin.com/in/modith-hadya)
 [![GitHub PHNX-MOD](https://img.shields.io/github/followers/PHNX-MOD?label=follow&style=social)](https://github.com/PHNX-MOD)
 <p><a href="#">🌐 Check out my website "working on my portfolio"</a></p> 
 
