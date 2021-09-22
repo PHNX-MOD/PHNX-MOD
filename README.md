@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**How are you doing** :star_struck: <br> This is me [**GitHub** profile](https://github.com/PHNX-MOD) - Modith Hadya. I am a data-driven person who likes to solve problems through coding and also someone who is driven by intellectual curiosity to solve pressing problems. I am a Risk Analyst by profession and coding enthusiast by passion. I am very much interested in Web development and have worked on (Reactjs, Django, Python).
+**How are you doing** :star_struck: <br> This is me [**GitHub** profile](https://github.com/PHNX-MOD) - Modith Hadya. I am a data-driven person who likes to solve problems through coding and also someone who is driven by intellectual curiosity to solve pressing problems. I am a Risk Analyst / Trader by profession and coding enthusiast by passion. I am very much interested in Web development and have worked on (Reactjs, Django, Python). I am currently working on data analysis projects with R programming as well as Python. 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
