@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**How are you doing** :star_struck: <br> This is me [**GitHub** profile](https://github.com/PHNX-MOD) - Modith Hadya. I am a Risk Analyst / Trader by profession and coding enthusiast by passion. I am very much interested in Web development and have worked on (Reactjs, Django, Python). I am currently working on data analysis projects with R programming as well as Python. Currently I am working on several R-shiny projects developing dashboards and apps which helps analysts on daily basis. 
+**How are you doing** :star_struck: <br> This is me [**GitHub** profile](https://github.com/PHNX-MOD) - Modith Hadya. I am a Analytical Engineer by profession and coding enthusiast by passion. I am very much interested in Web development and have worked on (Reactjs, Django, Python). I am currently working on data analysis projects with R programming as well as Python. Currently I am working on several R-shiny projects developing dashboards and apps which helps analysts on daily basis. 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -22,7 +22,7 @@
 
 **Lyrics to my poem**
 
-- 🔭 I’m currently working on **https://github.com/PHNX-MOD/Regression_SB**
+- 🔭 I’m currently working on **[https://github.com/PHNX-MOD/Regression_SB](https://github.com/fuzzyfeelingsyndicate/mainframe_etl)**
 - 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - 📫 How to reach me: https://www.facebook.com/Hady.modross/
 
