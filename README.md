@@ -22,7 +22,7 @@
 
 **Lyrics to my poem**
 
-- 🔭 I’m currently working on **[https://github.com/PHNX-MOD/Regression_SB](https://github.com/fuzzyfeelingsyndicate/mainframe_etl)**
+- 🔭 I’m currently working on **[End‑to‑End Betting Line Analytics and Movement Prediction Platform](https://github.com/fuzzyfeelingsyndicate/mainframe_etl)**
 - 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - 📫 How to reach me: https://www.facebook.com/Hady.modross/
 
